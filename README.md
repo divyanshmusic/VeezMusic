@@ -92,7 +92,7 @@
 ## Heroku Deployment <img src="./etc/Kenpurple.gif" width="40px">
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/levina-lab/veezmusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/divyanshmusic/veezmusic)
 
 ## VPS Deployment 📡
 
@@ -102,7 +102,7 @@ sudo apt install python3-pip ffmpeg -y
 sudo curl -sL https://deb.nodesource.com/setup_17.x | sudo bash -
 sudo apt-get install -y nodejs
 sudo npm i -g npm
-git clone https://github.com/levina-lab/VeezMusic # clone the repo.
+git clone https://github.com/divyanshmusic/VeezMusic # clone the repo.
 cd VeezMusic
 sudo pip3 install --upgrade pip
 sudo pip3 install -U -r requirements.txt
